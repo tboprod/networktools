@@ -23,4 +23,5 @@ Misura download e upload speed
 
 
 Per utilizzare questo script, dovrai installare alcune librerie:
-bashCopiapip install requests speedtest-cli
+```
+pip install requests speedtest-cli
